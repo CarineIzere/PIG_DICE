@@ -65,4 +65,6 @@ body  {
   }
   #rules > ol{
     font-family: bold;
+    font-style: italic;
+    
   }
